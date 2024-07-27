@@ -1,1 +1,1 @@
-# porMiCuenta
+# Python, CSS, HTML, JS, Bash
